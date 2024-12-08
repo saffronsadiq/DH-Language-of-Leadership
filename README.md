@@ -60,7 +60,7 @@ Analytical Notebooks
  
 	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
 
- ****## Pretrained Models
+ ## Pretrained Models
 
 The models used for analysis are  hosted on Hugging Face:
 
