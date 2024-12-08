@@ -44,6 +44,4 @@ Repository Contents
 
 Data: Chalkiadakis, Ioannis; Anglès d'Auriac, Louise; Peters, Gareth W.; Frau-Meigs, Divina (2024). A text dataset of campaign speeches of the main tickets in the 2020 US presidential election. figshare. Dataset. https://doi.org/10.6084/m9.figshare.26862064.v1
 
-Significance
-
-This project demonstrates the value of combining computational methods with traditional humanities inquiry, contributing to the growing field of Digital Humanities. It also highlights how interdisciplinary approaches can enhance our understanding of political rhetoric and its societal impact.
+Significance: This project demonstrates the value of combining computational methods with traditional humanities inquiry, contributing to the growing field of Digital Humanities. It also highlights how interdisciplinary approaches can enhance our understanding of political rhetoric and its societal impact.
