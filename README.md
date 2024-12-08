@@ -26,6 +26,16 @@ Key Files
  
 	•	trump_co-occurence_keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
 
+Preprocessing Notebooks
+
+	1. 	Cleaned Data
+	
+	•	A notebook outlining steps taken to clean data. 
+
+	2.	Co-occurence Analysis.ipynb:
+
+ 	•	A custom dictionary of keywords corresponding to seven emotional categories to train RoBERTa.
+
 Analytical Notebooks
 
 	1.	Co-occurence Analysis.ipynb:
