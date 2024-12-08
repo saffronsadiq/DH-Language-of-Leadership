@@ -60,6 +60,15 @@ Analytical Notebooks
  
 	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
 
+ ****## Pretrained Models
+
+The models used for analysis are  hosted on Hugging Face:
+
+- **Biden Model**: (https://huggingface.co/SaffronSadiq/biden-speech-analyser)
+- **Trump Model**: (https://huggingface.co/SaffronSadiq/trump-speech-analyser)
+
+These models can be used for various NLP tasks, including co-occurrence analysis, emotional distribution analysis, and more.
+
 Key Features and Findings:
 
 	•	Emotional Framing:
