@@ -36,9 +36,10 @@ Key Components
  
 	•	Limitations of current NLP tools in capturing nuanced political contexts.
  
-
 Repository Contents
+
 	•	/notebooks: Jupyter Notebooks containing code for data cleaning, analysis, and visualisation.
+ 
 	•	/results: Output files, including emotional classification metrics, thematic networks, and visualisations.
 
 Data: Chalkiadakis, Ioannis; Anglès d'Auriac, Louise; Peters, Gareth W.; Frau-Meigs, Divina (2024). A text dataset of campaign speeches of the main tickets in the 2020 US presidential election. figshare. Dataset. https://doi.org/10.6084/m9.figshare.26862064.v1
