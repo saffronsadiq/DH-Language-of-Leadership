@@ -14,7 +14,7 @@ Research Questions
 
 Key Components
 
-	•Methodology:
+	Methodology:
  
 	•	Emotional Analysis: Utilising RoBERTa for emotional classification and co-occurrence analysis to map relationships between emotionally charged terms.
  
@@ -22,13 +22,13 @@ Key Components
  
 	•	Comparative Analysis: Examining Republican and Democratic rhetoric, emphasising gaps in existing literature on left-leaning discourse.
  
-	•Tools and Technologies:
+	Tools and Technologies:
  
 	•	Python-based NLP libraries (Hugging Face Transformers, NetworkX, spaCy)
  
 	•	Data visualisation tools (Matplotlib)
  
-	•Key Findings:
+	Key Findings:
  
 	•	Thematic and emotional differences between Republican and Democratic leaders.
  
