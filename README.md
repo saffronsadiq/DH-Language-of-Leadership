@@ -12,35 +12,80 @@ Research Questions
 	2.	What linguistic strategies resonate most with audiences, and how do these vary in framing and sentiment?
 	3.	Can computational tools capture the nuance and complexity of emotional resonance in political language?
 
-Key Components
+Contents of This Repository
 
-	Methodology:
- 
-	•	Emotional Analysis: Utilising RoBERTa for emotional classification and co-occurrence analysis to map relationships between emotionally charged terms.
- 
-	•	Thematic Network Analysis: Employing co-occurrence network analysis to identify clusters of terms and their rhetorical framing within speeches.
- 
-	•	Comparative Analysis: Examining Republican and Democratic rhetoric, emphasising gaps in existing literature on left-leaning discourse.
- 
-	Tools and Technologies:
- 
-	•	Python-based NLP libraries (Hugging Face Transformers, NetworkX, spaCy)
- 
-	•	Data visualisation tools (Matplotlib)
- 
-	Key Findings:
- 
-	•	Thematic and emotional differences between Republican and Democratic leaders.
- 
-	•	Insights into the emotional framing strategies that resonate with audiences and mobilise support.
- 
-	•	Limitations of current NLP tools in capturing nuanced political contexts.
- 
-Repository Contents
+Datasets
 
-	•	/notebooks: Jupyter Notebooks containing code for data cleaning, analysis, and visualisation.
+	•	Corpus of Donald Trump Speeches: A collection of speeches by Donald Trump, preprocessed for analysis.
  
-	•	/results: Output files, including emotional classification metrics, thematic networks, and visualisations.
+	•	Corpus of Joe Biden Speeches: A collection of speeches by Joe Biden, preprocessed for analysis.
+
+Key Files
+
+	•	biden_co-occurence_keywords.csv: Co-occurrence keyword data for Joe Biden’s speeches.
+ 
+	•	trump_co-occurence_keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
+
+Analytical Notebooks
+
+	1.	Co-occurence Analysis.ipynb:
+ 
+	•	Maps relationships between emotionally charged terms in Trump and Biden’s speeches.
+ 
+	•	Visualises thematic clusters using co-occurrence network analysis.
+ 
+	2.	Emotional Distribution Analysis.ipynb:
+ 
+	•	Classifies emotional tones in political speeches.
+ 
+	•	Compares emotional patterns across leaders.
+ 
+	3.	Emotional Ngram Frequency.ipynb:
+ 
+	•	Analyses recurring emotional n-grams to identify trends in emotional framing.
+ 
+	4.	Language Complexity Analysis.ipynb:
+ 
+	•	Measures linguistic complexity in speeches to examine their accessibility and resonance.
+ 
+	5.	RobertaForTrump.ipynb:
+ 
+	•	Custom fine-tuning and application of the RoBERTa model for Trump’s speeches.
+ 
+	6.	RobertaForBiden.ipynb:
+ 
+	•	Custom fine-tuning and application of the RoBERTa model for Biden’s speeches.
+ 
+	7.	Pre-trained Roberta.ipynb:
+ 
+	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
+
+Key Features and Findings:
+
+	•	Emotional Framing:
+ 
+	•	Insights into how Trump and Biden use emotional rhetoric to engage audiences.
+ 
+	•	Differences in sentiment distribution and intensity.
+ 
+	•	Thematic Co-Occurrence Networks:
+ 
+	•	Visualisation of connections between keywords and overarching themes in political speeches.
+ 
+	•	Linguistic Complexity:
+ 
+	•	Analysis of how speech patterns align with target audiences’ comprehension levels.
+ 
+	•	Methodological Reflections:
+ 
+	•	Evaluation of the capabilities and constraints of computational tools in capturing political nuance.
+
+Tools and Technologies
+
+	•	NLP Libraries: Hugging Face Transformers, spaCy, NLTK
+ 
+	•	Data Analysis and Visualisation: Pandas, Matplotlib
+
 
 Data: Chalkiadakis, Ioannis; Anglès d'Auriac, Louise; Peters, Gareth W.; Frau-Meigs, Divina (2024). A text dataset of campaign speeches of the main tickets in the 2020 US presidential election. figshare. Dataset. https://doi.org/10.6084/m9.figshare.26862064.v1
 
