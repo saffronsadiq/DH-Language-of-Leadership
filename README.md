@@ -53,19 +53,16 @@ Analytical Notebooks
  
 	•	Measures linguistic complexity in speeches to examine their accessibility and resonance.
 
- Findings
+ Findings and Visualisation
 
-	•	biden_co-occurence_keywords.csv: Co-occurrence keyword data for Joe Biden’s speeches.
+	•	Biden co-occurence keywords.csv: Co-occurrence keyword data for Joe Biden’s speeches.
  
-	•	trump_co-occurence_keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
-
- Visualisation Notebook
-
-	1. 	Co-Occurence Network
+	•	Trump co-occurence keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
 	
-	•	A visualisation showing the co-occurence networks of Trump and Biden speeches.
+	•	Co-Occurence Network Visualisation.ipynb: A visualisation showing the co-occurence networks of Trump and Biden 			speeches.
 
  Transformer Notebooks
+ 
 	1.	Pre-trained Roberta.ipynb:
  
 	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
