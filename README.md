@@ -27,9 +27,6 @@ Preprocessing Notebooks
 	
 	•	A notebook outlining steps taken to clean data. 
 
-	2.	Co-occurence Analysis.ipynb:
-
- 	•	A custom dictionary of keywords corresponding to seven emotional categories to train RoBERTa.
 
 Analytical Notebooks
 
