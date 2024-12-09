@@ -27,6 +27,9 @@ Preprocessing Notebooks
 	
 	•	A notebook outlining steps taken to clean data. 
 
+ 	1. 	Emotion Labelling.ipynb
+  
+	•	Notebook containing the steps taken to emotionally label the data. 
 
 Analytical Notebooks
 
