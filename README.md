@@ -20,11 +20,6 @@ Datasets
  
 	•	Corpus of Joe Biden Speeches: A collection of speeches by Joe Biden, preprocessed for analysis.
 
-Key Files
-
-	•	biden_co-occurence_keywords.csv: Co-occurrence keyword data for Joe Biden’s speeches.
- 
-	•	trump_co-occurence_keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
 
 Preprocessing Notebooks
 
@@ -57,24 +52,32 @@ Analytical Notebooks
 	4.	Language Complexity Analysis.ipynb:
  
 	•	Measures linguistic complexity in speeches to examine their accessibility and resonance.
+
+ Findings
+
+	•	biden_co-occurence_keywords.csv: Co-occurrence keyword data for Joe Biden’s speeches.
  
-	5.	RobertaForTrump.ipynb:
- 
-	•	Custom fine-tuning and application of the RoBERTa model for Trump’s speeches.
- 
-	6.	RobertaForBiden.ipynb:
- 
-	•	Custom fine-tuning and application of the RoBERTa model for Biden’s speeches.
- 
-	7.	Pre-trained Roberta.ipynb:
- 
-	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
+	•	trump_co-occurence_keywords.csv: Co-occurrence keyword data for Donald Trump’s speeches.
 
  Visualisation Notebook
 
 	1. 	Co-Occurence Network
 	
 	•	A visualisation showing the co-occurence networks of Trump and Biden speeches.
+
+ Transformer Notebooks
+	1.	Pre-trained Roberta.ipynb:
+ 
+	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
+ 
+	2.	RobertaForBiden.ipynb:
+ 
+	•	Custom fine-tuning and application of the RoBERTa model for Biden’s speeches.
+ 
+	3.	RobertaForTrump.ipynb:
+ 
+	•	Custom fine-tuning and application of the RoBERTa model for Trump’s speeches.
+	
 
  ## Pretrained Models
 
