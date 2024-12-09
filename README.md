@@ -70,6 +70,12 @@ Analytical Notebooks
  
 	•	Demonstrates the use of pre-trained RoBERTa for initial speech classification and feature extraction.
 
+ Visualisation Notebook
+
+	1. 	Co-Occurence Network
+	
+	•	A visualisation showing the co-occurence networks of Trump and Biden speeches.
+
  ## Pretrained Models
 
 The models used for analysis are  hosted on Hugging Face:
